@@ -1,0 +1,21 @@
+[
+  {
+    "id": 1,
+    "title": "Squat",
+    "muscle group": "Quads", “Glutes”, “Hamstrings”,
+    "cover-art": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Squats.svg/1200px-Squats.svg.png"
+  },
+  { 
+    "id": 2,
+    "title": "Bench",
+    "muscle group": "Chest", “Shoulders”, “Triceps”,
+    "cover-art": "https://www.crossfit.com/wp-content/uploads/2019/05/01151551/Bench-Press-Collage.png"
+  },
+  { 
+    "id": 3,
+    "title": "Deadlift",
+    "muscle group": "Glutes", “Hamstrings”, “Back”,
+    "cover-art": "https://i.ytimg.com/vi/1ZXobu7JvvE/hqdefault.jpg"
+  }
+]
+    
