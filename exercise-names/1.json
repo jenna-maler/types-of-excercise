@@ -1,7 +1,7 @@
 {
-  "title": "Squat"
-  "movement": "vertical"
-  "placement": "stationary"
-  "type": "primary"
-  "needed": "squat-rack"
+    "title": "Squat",
+    "movement": "vertical",
+    "placement": "stationary",
+    "type": "primary",
+    "needed": "squat-rack"
 }
